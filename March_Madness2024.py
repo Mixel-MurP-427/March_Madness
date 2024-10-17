@@ -1,5 +1,4 @@
 #Randomly generates and saves a March Madness bracket.
-#   "C:\Users\jodim\Downloads\Connor2024MarchMadness.txt"
 
 import random, re, copy
 
@@ -115,6 +114,6 @@ specific_place = re.compile('WINR')
 new_template_string = specific_place.sub(winner, new_template_string)
 
 
-bracket_object = open("Misc_projects/testBracketTemplate.txt", 'w')
+bracket_object = open("Misc_projects/testBracketTemplate.txt", 'w') #TODO fix file path
 bracket_object.write(new_template_string)
 bracket_object.close()
