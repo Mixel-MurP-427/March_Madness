@@ -1,0 +1,36 @@
+FIRST                 SECOND    SWEET    ELITE    FINAL                          FINAL    ELITE    SWEET    SECOND                  FIRST
+ROUND                 ROUND    SIXTEEN   EIGHT    FOUR                            FOUR    EIGHT   SIXTEEN    ROUND                  ROUND
+
+1 Uconn-------------\                                                                                              /------------Houston 1
+16 Stetson----------/--E32a--|                                                                            |--S32a--\----------Longwood 16
+8 Fla. Atlantic-----\        |--E16a--|                                                          |--S16a--|        /-----------Nebraska 8
+9 Northwestern------/--E32b--|        |                                                          |        |--S32b--\----------Texas A&M 9
+5 San Diego St.-----\                 |--E08a--|                                        |--S08a--|                 /----------Wisconsin 5
+12 UAB--------------/--E32c--|        |        |                                        |        |        |--S32c--\-----James Madison 12
+4 Auburn------------\        |--E16b--|        |                                        |        |--S16b--|        /---------------Duke 4
+13 Yale-------------/--E32d--|                 |                                        |                 |--S32d--\-----------Vermont 13
+6 BYU---------------\                          |--E04a--|                      |--S04a--|                          /---------Texas Tech 6
+11 Duquesne---------/--E32e--|                 |        |                      |        |                 |--S32e--\----------NC State 11
+3 Illinois----------\        |--E16c--|        |        |                      |        |        |--S16c--|        /-----------Kentucky 3
+14 Morehead St.-----/--E32f--|        |        |        |                      |        |        |        |--S32f--\-----------Oakland 14
+7 Washington St.----\                 |--E08b--|        |                      |        |--S08b--|                 /------------Florida 7
+10 Drake------------/--E32g--|        |                 |                      |                 |        |--S32g--\----------Colorado 10
+2 Iowa St.----------\        |--E16d--|                 |                      |                 |--S16d--|        /----------Marquette 2
+15 South Dakota St.-/--E32h--|                          |                      |                          |--S32h--\--Western Kentucky 15
+                                                        |--LEFT--[WINR]--RITE--|                                                        
+1 North Carolina----\--W32a--|                          |                      |                          |--M32a--/-------------Purdue 1
+16 Wagner-----------/        |--W16a--|                 |                      |                 |--M16a--|        \---------Grambling 16
+8 Mississippi St.---\--W32b--|        |                 |                      |                 |        |--M32b--/-----------Utah St. 8
+9 Michigan St.------/                 |--W08a--|        |                      |        |--M08a--|                 \----------------TCU 9
+5 Saint Mary's------\--W32c--|        |        |        |                      |        |        |        |--M32c--/------------Gonzaga 5
+12 Grand Canyon-----/        |--W16b--|        |        |                      |        |        |--M16b--|        \-----------McNeese 12
+4 Alabama-----------\--W32d--|                 |        |                      |        |                 |--M32d--/-------------Kansas 4
+13 Charleston-------/                          |--W04a--|                      |--M04a--|                          \-----------Samford 13
+6 Clemson-----------\--W32e--|                 |                                        |                 |--M32e--/-----South Carolina 6
+11 New Mexico-------/        |--W16c--|        |                                        |        |--M16c--|        \------------Oregon 11
+3 Baylor------------\--W32f--|        |        |                                        |        |        |--M32f--/----------Creighton 3
+14 Cologate---------/                 |--W08b--|                                        |--M08b--|                 \-------------Akron 14
+7 Dayton------------\--W32g--|        |                                                          |        |--M32g--/--------------Texas 7
+10 Nevada-----------/        |--W16d--|                                                          |--M16d--|        \------Colorado St. 10
+2 Arizona-----------\--W32h--|                                                                            |--M32h--/----------Tennessee 2
+15 Long Beach St.---/                                                                                              \-----Saint Peter's 15

@@ -1,0 +1,36 @@
+FIRST                 SECOND    SWEET    ELITE    FINAL                          FINAL    ELITE    SWEET    SECOND                  FIRST
+ROUND                 ROUND    SIXTEEN   EIGHT    FOUR                            FOUR    EIGHT   SIXTEEN    ROUND                  ROUND
+
+1 Uconn-------------\                                                                                              /-------------Houston 1
+16 Stetson----------/--Ucon--|                                                                            |--Hous--\-----------Longwood 16
+8 Fla. Atlantic-----\        |--Ucon--|                                                          |--Hous--|        /------------Nebraska 8
+9 Northwestern------/--FlaA--|        |                                                          |        |--Nebr--\-----------Texas A&M 9
+5 San Diego St.-----\                 |--Aubu--|                                        |--Duke--|                 /-----------Wisconsin 5
+12 UAB--------------/--SDiS--|        |        |                                        |        |        |--Wisc--\------James Madison 12
+4 Auburn------------\        |--Aubu--|        |                                        |        |--Duke--|        /----------------Duke 4
+13 Yale-------------/--Aubu--|                 |                                        |                 |--Duke--\------------Vermont 13
+6 BYU---------------\                          |--IowS--|                      |--Duke--|                          /----------Texas Tech 6
+11 Duquesne---------/--Duqu--|                 |        |                      |        |                 |--TexT--\-----------NC State 11
+3 Illinois----------\        |--Illi--|        |        |                      |        |        |--Kent--|        /------------Kentucky 3
+14 Morehead St.-----/--Illi--|        |        |        |                      |        |        |        |--Kent--\------------Oakland 14
+7 Washington St.----\                 |--IowS--|        |                      |        |--Kent--|                 /-------------Florida 7
+10 Drake------------/--Drak--|        |                 |                      |                 |        |--Flor--\-----------Colorado 10
+2 Iowa St.----------\        |--IowS--|                 |                      |                 |--Marq--|        /-----------Marquette 2
+15 South Dakota St.-/--IowS--|                          |                      |                          |--Marq--\---Western Kentucky 15
+                                                        |--IowS--[IowS]--Duke--|                                                        
+1 North Carolina----\--NorC--|                          |                      |                          |--Gram--/--------------Purdue 1
+16 Wagner-----------/        |--NorC--|                 |                      |                 |--TCU---|        \----------Grambling 16
+8 Mississippi St.---\--MicS--|        |                 |                      |                 |        |--TCU---/------------Utah St. 8
+9 Michigan St.------/                 |--Alab--|        |                      |        |--TCU---|                 \----------------TCU- 9
+5 Saint Mary's------\--SaiM--|        |        |        |                      |        |        |        |--McNe--/-------------Gonzaga 5
+12 Grand Canyon-----/        |--Alab--|        |        |                      |        |        |--Kans--|        \------------McNeese 12
+4 Alabama-----------\--Alab--|                 |        |                      |        |                 |--Kans--/--------------Kansas 4
+13 Charleston-------/                          |--Bayl--|                      |--Oreg--|                          \------------Samford 13
+6 Clemson-----------\--Clem--|                 |                                        |                 |--Oreg--/------South Carolina 6
+11 New Mexico-------/        |--Bayl--|        |                                        |        |--Oreg--|        \-------------Oregon 11
+3 Baylor------------\--Bayl--|        |        |                                        |        |        |--Crei--/-----------Creighton 3
+14 Cologate---------/                 |--Bayl--|                                        |--Oreg--|                 \--------------Akron 14
+7 Dayton------------\--Dayt--|        |                                                          |        |--Texa--/---------------Texas 7
+10 Nevada-----------/        |--Dayt--|                                                          |--Texa--|        \-------Colorado St. 10
+2 Arizona-----------\--Ariz--|                                                                            |--Tenn--/-----------Tennessee 2
+15 Long Beach St.---/                                                                                              \------Saint Peter's 15
