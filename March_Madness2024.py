@@ -30,9 +30,8 @@ for division in all_teams:
     for team in all_teams[division]:
         abbrv_teams[division].append(get_abbrv(team))
 
-bracket_object = open("Misc_projects/VS2024MarchMadnessTemplate.txt", 'r')
-bracket_template = bracket_object.readlines()
-bracket_object.close
+with open("VS2024MarchMadnessTemplate.txt", 'r') as bracket_object:
+    bracket_template = bracket_object.readlines()
 
 #assign proper starting teams to template bracket
 line = 3
@@ -56,9 +55,8 @@ for row in new_template_list[16:]:
     new_template_string = new_template_string + row
 
 #write empty bracket to file. Note that file is overwritten later.
-bracket_object = open("Misc_projects/testBracketTemplate.txt", 'w')
-bracket_object.write(new_template_string)
-bracket_object.close()
+with open("testBracketTemplate.txt", 'w') as bracket_object:
+    bracket_object.write(new_template_string)
 
 #make picks and put in bracket
 
@@ -114,6 +112,5 @@ specific_place = re.compile('WINR')
 new_template_string = specific_place.sub(winner, new_template_string)
 
 
-bracket_object = open("Misc_projects/testBracketTemplate.txt", 'w') #TODO fix file path
-bracket_object.write(new_template_string)
-bracket_object.close()
+with open("testBracketTemplate.txt", 'w') as bracket_object:
+    bracket_object.write(new_template_string)
