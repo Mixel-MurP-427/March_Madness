@@ -4,10 +4,10 @@ import random, re, copy
 
 #team cannot have name less than 3 letters
 all_teams = {
-    'East': ['Uconn', 'Iowa St.', 'Illinois', 'Auburn', 'San Diego St.', 'BYU-', 'Washington St.', 'Fla. Atlantic', 'Northwestern', 'Drake', 'Duquesne', 'UAB-', 'Yale', 'Morehead St.', 'South Dakota St.', 'Stetson'], 
-    'West': ['North Carolina', 'Arizona', 'Baylor', 'Alabama', 'Saint Mary\'s', 'Clemson', 'Dayton', 'Mississippi St.', 'Michigan St.', 'Nevada', 'New Mexico', 'Grand Canyon', 'Charleston', 'Cologate', 'Long Beach St.', 'Wagner'], 
-    'South': ['Houston', 'Marquette', 'Kentucky', 'Duke', 'Wisconsin', 'Texas Tech', 'Florida', 'Nebraska', 'Texas A&M', 'Colorado', 'NC State', 'James Madison', 'Vermont', 'Oakland', 'Western Kentucky', 'Longwood'],
-    'Midwest': ['Purdue', 'Tennessee', 'Creighton', 'Kansas', 'Gonzaga', 'South Carolina', 'Texas', 'Utah St.', 'TCU-', 'Colorado St.', 'Oregon', 'McNeese', 'Samford', 'Akron', 'Saint Peter\'s', 'Grambling']}
+    'East': ['Duke', 'Alabama', 'Wisconsin', 'Arizona', 'Oregon', 'BYU-', "Saint Mary's", 'Mississippi St.', 'Baylor', 'Vanderbilt', 'VCU-', 'Liberty', 'Akron', 'Montana', 'Robert Morris', "American/Mount St. Mary's"],
+    'West': ['Florida', "Saint John's", 'Texas Tech', 'Maryland', 'Memphis', 'Missouri', 'Kansas', 'UConn', 'Oklahoma', 'Arkansas', 'Drake', 'Colorado St.', 'Grand Canyon', 'UNC Wilmington', 'Omaha', 'Norfolk St.'],
+    'South': ['Auburn', 'Michigan St.', 'Iowa St.', 'Texas A&M', 'Michigan', 'Ole Miss', 'Marquette', 'Louisville', 'Creighton', 'New Mexico', 'North Carolina/San Diego St.', 'UC San Diego', 'Yale', 'Lipscomb', 'Bryant', 'Alabama St./Saint Francis'],
+    'Midwest': ['Houston', 'Tennessee', 'Kentucky', 'Purdue', 'Clemson', 'Illinois', 'UCLA', 'Gonzaga', 'Georgia', 'Utah St.', 'Texas/Xavier', 'McNeese', 'High Point', 'Troy', 'Wofford', 'SIU Edwardsville']}
 
 round1matches = [(0, 15), (7, 8), (4, 11), (3, 12), (5, 10), (2, 13), (6, 9), (1, 14)]
 
